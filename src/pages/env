@@ -1,0 +1,6 @@
+# Supabase cho Google Login & Auth
+VITE_SUPABASE_URL=https://bhdjmhdytfyvtyvgdzmr.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJoZGptaGR5dGZ0dmdkem1uZ3JyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcwOTk5OTksImV4cCI6MjA1MjY3NTk5OX0.[sb_publishable_QbvGU_qWBfIpIaWPo9LtAQ_aV1FXmZw]
+
+# Nếu thầy có Gemini key cho AI soạn bài
+VITE_GEMINI_API_KEY=AIzaSy... [giữ nguyên key Gemini của thầy]
